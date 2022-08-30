@@ -1,6 +1,6 @@
-# Tech Talk Tailwind
-
 ![Logo Tailwind](assets/tailwindcss-logotype.svg)
+
+# Tech Talk Tailwind
 
 Tailwind is a CSS framework, it works by parsing all your HTML files, JavaScript components and any other templates for class names, generating the corresponding styles, then writing them to a static CSS file.
 
@@ -71,6 +71,7 @@ The whole process can be found in the  [Tailwind documentation.](https://tailwin
 ### Configure config.tailwind.js file
 
 ---------------------------To do---------------------------
+To watch : https://www.youtube.com/watch?v=Baiqc3uba64
 
 ## Project created with Tailwind
 
@@ -103,3 +104,8 @@ The whole process can be found in the  [Tailwind documentation.](https://tailwin
 - Not easy to get to grips with at first, as you need to know the tailwind syntax
 - Not easy to use if you don't know basic CSS
 - Difficult to maintain over time
+
+## Links
+
+- [Tailwind documentation](https://tailwindcss.com/docs/installation)
+- [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/)
