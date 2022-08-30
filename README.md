@@ -1,6 +1,6 @@
 ![Logo Tailwind](assets/tailwindcss-logotype.svg)
 
-# Tech Talk Tailwind
+# Tech Talk - Tailwind
 
 Tailwind is a CSS framework, it works by parsing all your HTML files, JavaScript components and any other templates for class names, generating the corresponding styles, then writing them to a static CSS file.
 
