@@ -9,3 +9,5 @@ Put this line of code in your site's head tag :
 ```
 
 And start using Tailwind.
+
+[-- Go back --](../)
