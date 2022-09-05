@@ -13,11 +13,6 @@ There are two ways to install it :
 
 The whole process can be found in the  [Tailwind documentation.](https://tailwindcss.com/docs/installation/play-cdn)
 
-### Configure config.tailwind.js file
-
----------------------------To do---------------------------
-To watch : https://www.youtube.com/watch?v=Baiqc3uba64
-
 ## Project created with Tailwind
 
 [Personnal portfolio](https://vvkdo98.github.io/portfolio/)
