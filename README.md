@@ -22,7 +22,7 @@ The whole process can be found in the  [Tailwind documentation.](https://tailwin
 ## ✅ Why should you use Tailwind ?
 
 - Customization
-    - Basic configuration with config.tailwind.js
+    - Basic configuration with tailwind.config.js
     - Colours
     - Sizes
     - Fonts
