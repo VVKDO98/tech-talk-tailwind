@@ -14,7 +14,7 @@ Configure your template paths :
 ```
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./index.html"],
   theme: {
     extend: {},
   },
@@ -22,7 +22,7 @@ module.exports = {
 }
 ```
 
-Add the Tailwind directives to your CSS :
+Create a CSS folder with a "style.css" file and add the Tailwind directives to your CSS :
 
 ```
 @tailwind base;
@@ -33,7 +33,7 @@ Add the Tailwind directives to your CSS :
 Start the Tailwind CLI build process :
 
 ```
-npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+npx tailwindcss -i ./css/style.css -o ./dist/output.css --watch
 ```
 
 Put this line of code in your site's head tag :
@@ -41,5 +41,7 @@ Put this line of code in your site's head tag :
 ```
 <link href="/dist/output.css" rel="stylesheet">
 ```
+
+Don't forget to .gitignore "node_modules/".
 
 And start using Tailwind.
